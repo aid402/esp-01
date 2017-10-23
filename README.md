@@ -1,4 +1,4 @@
-# esp-01
+# ESP-01
 micropython firmware
 - คอมไพล์เฟิร์มแวร์สำหรับ esp-01
 - ทุกเฟิร์มแวร์จะมีโมดูล machine.i2c,mqtt.simple
