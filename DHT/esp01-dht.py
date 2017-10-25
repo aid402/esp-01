@@ -56,5 +56,3 @@ while True:
   if type(t) is not int:
     t=int(t)
     sleep(t)
-
-client.disconnect()
