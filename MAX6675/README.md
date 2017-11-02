@@ -3,3 +3,4 @@
 * library >> max6675.py
 * micropython code >> max6675_ex.py
 * node-red flow >> max6675_mqtt.js
+* gpio connect >> sck=gpio3, cs=gpio0, so=gpio2
