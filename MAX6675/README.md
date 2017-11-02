@@ -1,3 +1,3 @@
 # MAX6675 library
-ใช้กับ firmware  DHT หรือ ONEWIRE ก็ได้
- library >> max6675.py
+* ใช้กับ firmware  DHT หรือ ONEWIRE ก็ได้
+* library >> max6675.py
