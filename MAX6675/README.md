@@ -1,2 +1,2 @@
 # MAX6675 library
-ใช้ firmware ของ DHT ได้เลย
+ใช้กับ firmware  DHT หรือ ONEWIRE ก็ได้
