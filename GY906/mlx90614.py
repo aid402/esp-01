@@ -1,5 +1,6 @@
 """
 MicroPython driver for MLX90614 IR temperature sensor
+credit : https://github.com/mcauser/micropython-mlx90614
 """
 
 import ustruct
