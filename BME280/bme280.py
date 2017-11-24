@@ -1,3 +1,4 @@
+#credit : https://github.com/catdog2/mpy_bme280_esp8266
 import time
 from ustruct import unpack, unpack_from
 from array import array
