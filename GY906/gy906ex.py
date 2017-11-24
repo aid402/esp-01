@@ -1,7 +1,7 @@
 import time
 import mlx90614
 from machine import I2C, Pin
-i2c = I2C(scl=Pin(5), sda=Pin(4))
+i2c = I2C(scl=Pin(0), sda=Pin(2))
 sensor = mlx90614.MLX90614(i2c)
 
 while True:
